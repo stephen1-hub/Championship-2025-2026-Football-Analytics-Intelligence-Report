@@ -13,7 +13,7 @@ The goal was to transform raw football match data into actionable football busin
 
 # Data Used
 
-Dataset: England Championship 2025/2026 Match Data (E1.csv)
+Dataset: football-data.co.uk/England Championship 2025/2026 Match Data (E1.csv)
 
 # Dataset Overview
 552 matches
