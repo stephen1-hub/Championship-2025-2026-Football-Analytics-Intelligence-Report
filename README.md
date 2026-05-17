@@ -31,6 +31,9 @@ Python
 Pandas
 NumPy
 Matplotlib
+Plotly
+Streamlit
+
 # Key Findings
 1. Millwall, Hull, and Coventry significantly outperformed bookmaker expectations
 Team	Performance Gap
