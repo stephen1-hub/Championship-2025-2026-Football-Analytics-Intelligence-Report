@@ -104,6 +104,9 @@ between winning and non-winning teams.
 
 Highlights which in-game metrics most strongly influence match outcomes.
 
+<img width="1595" height="744" alt="image" src="https://github.com/user-attachments/assets/7365e640-5490-431a-b66c-19deeeb65880" />
+
+
 # Tactical Implications
 Efficient Teams
 
